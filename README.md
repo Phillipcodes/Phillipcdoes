@@ -7,9 +7,10 @@ My name is Phillip, and I’m a certified front-end developer on my way to compl
 If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
 <br>
 ---
+### 🧰 Languages and Tools
  <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> 
 
-
+#
 ---
 
 ### 🧰 Languages and Tools
