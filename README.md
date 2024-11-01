@@ -6,8 +6,8 @@ Hello there! Welcome to my GitHub profile. Don’t be afraid to have a look arou
 My name is Phillip, and I’m a certified front-end developer on my way to completing my backend certification, too.
 If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
 <br>
-<div>
-<span height="80px" > 
+<div style="display: flex; align-items: center;">
+<span style="margin-right: 10px;"> 
 You can also check me out on</span>
 <a href="https://www.linkedin.com/in/phillip-sauer/"><img align="center"  alt="TypeScript" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> </a>
 </div>
