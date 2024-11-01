@@ -2,8 +2,9 @@
 
 **`Digital Craftsman (Developer/Web Dev)`**
 
-description
-
+   Hello there! Welcome to my GitHub profile. Don’t be afraid to have a look around!
+    My name is Phillip, and I’m a certified front-end developer on my way to completing my backend certification, too.
+    If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
 ---
 
 ### 🧰 Languages and Tools
@@ -22,5 +23,6 @@ description
 
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3>
+</summary>
  
