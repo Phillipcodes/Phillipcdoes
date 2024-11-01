@@ -1,10 +1,11 @@
-#  Phillip Sauer💡
+# Phillip Sauer💡
 
 **`Digital Craftsman (Developer/Web Dev)`**
 
-   Hello there! Welcome to my GitHub profile. Don’t be afraid to have a look around!
-    My name is Phillip, and I’m a certified front-end developer on my way to completing my backend certification, too.
-    If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
+Hello there! Welcome to my GitHub profile. Don’t be afraid to have a look around!
+My name is Phillip, and I’m a certified front-end developer on my way to completing my backend certification, too.
+If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
+
 ---
 
 ### 🧰 Languages and Tools
@@ -21,18 +22,11 @@
 
 #
 
-
 <details>
  <summary><h3>Im Interested in learning new Languages and Frameworks.</h3>
- <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
+</summary>
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
  <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
  
-</summary>
- 
-
- <!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-
--->
+ </details>
