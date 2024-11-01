@@ -9,7 +9,7 @@ If you’d like to check out some of my recent projects, feel free to explore my
 <div >
 <span align="center"> 
 You can also check me out on</span>
-<a href="https://www.linkedin.com/in/phillip-sauer/"><img align="center"  alt="TypeScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> </a>
+<a href="https://www.linkedin.com/in/phillip-sauer/"><img align="center"  alt="TypeScript" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> </a>
 </div>
 
 ---
