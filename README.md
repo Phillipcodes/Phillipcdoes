@@ -7,7 +7,7 @@ My name is Phillip, and I’m a certified front-end developer on my way to compl
 If you’d like to check out some of my recent projects, feel free to explore my <a href="https://phillip-marcel-sauer.com/">portfolio</a>.
 <br>
 <div>
-<a> You can also check me out on<img  alt="TypeScript" width="120px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> </a>
+<a style="display:flex"> You can also check me out on <img  alt="TypeScript" width="120px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /> </a>
 </div>
 
 ---
